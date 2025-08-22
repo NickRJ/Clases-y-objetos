@@ -1,17 +1,15 @@
 # Diario de Aventuras
 
-**Fecha:** 21/08/2025  
+Fecha: 21/08/2025  
 
-**Lugar:** Bosque Encantado  
+Lugar: Bosque Encantado  
 
-**Participantes:**  
-- Nicholas  
-- Ana  
-- Carlos  
+Participantes:
+- Nicholas R. Jasso
 
 ---
 
-## Resumen de la aventura:
+ Resumen de la aventura:
 Hoy atravesamos el Bosque Encantado en busca de la Puerta Secreta.  
 Encontramos tres retos mágicos:  
 1. Resolver un acertijo con números.  
